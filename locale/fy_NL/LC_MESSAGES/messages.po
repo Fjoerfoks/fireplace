@@ -191,7 +191,7 @@ msgstr "Ofmelde"
 
 #: /templates/nav.html:96 /templates/settings.html:68
 msgid "Get Involved"
-msgstr "Meiewurkje"
+msgstr "Meiwurkje"
 
 #: /templates/nav.html:97 /media/js/views/newsletter_signup.js:11
 msgid "Newsletter Signup"
@@ -219,7 +219,7 @@ msgstr "Ynskriuwe"
 
 #: /templates/newsletter.html:18
 msgid "Preferred Language"
-msgstr ""
+msgstr "Foarkartaal"
 
 #: /templates/newsletter.html:32
 msgid "I'm okay with Mozilla handling my info as explained in <a href=\"{privacy_policy_url}\" target=\"_blank\">this Privacy Policy</a>."
@@ -231,7 +231,7 @@ msgstr "Tank foar it ynskriuwen!"
 
 #: /templates/newsletter.html:45
 msgid "You'll receive an email from mozilla@e.mozilla.org, please check your inbox for your first email from us. If you don’t see it, check your spam filter."
-msgstr "Jo ûntfange in e-mailberjocht fan mozilla@e.mozilla.org; kontrolearje jo Postvak YN op ús earste e-mailberjocht. As jo dit net sjogge, kontrolearje dan jo spamfilter."
+msgstr "Jo ûntfange in e-mailberjocht fan mozilla@e.mozilla.org; kontrolearje jo Postfek YN op ús earste e-mailberjocht. As jo dit net sjogge, kontrolearje dan jo spamfilter."
 
 #: /templates/langpacks.html:34 /templates/langpacks.html:39
 msgid "No language packs found."
