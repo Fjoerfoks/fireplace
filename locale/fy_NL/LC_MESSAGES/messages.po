@@ -119,10 +119,12 @@ msgstr "Misbrûk fan hannelsmerk melde"
 #: /templates/march_banner.html:1
 msgid "On March 29, 2016, we will stop supporting Desktop and Android platforms, and payments."
 msgstr ""
+"Op 29 maart 2016 wurdt de stipe fan desktop- en Android-platfoarmen "
+"en betellingen stopset."
 
 #: /templates/march_banner.html:3
 msgid "Read more"
-msgstr ""
+msgstr "Lês mear"
 
 #: /templates/header.html:19 /templates/header.html:34
 msgid "Search Marketplace&hellip;"
@@ -198,7 +200,7 @@ msgstr "Ofmelde"
 
 #: /templates/nav.html:92
 msgid "Add-on Tools"
-msgstr ""
+msgstr "Add-onark"
 
 #: /templates/nav.html:100
 msgid "Get Involved"
