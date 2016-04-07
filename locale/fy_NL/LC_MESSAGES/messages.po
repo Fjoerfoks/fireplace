@@ -138,11 +138,11 @@ msgstr "Ofmelde"
 
 #: /templates/fxos_only_banner.html:1
 msgid "These applications can only be installed on devices running Firefox OS."
-msgstr ""
+msgstr "Dizze applikaasjses kinne allinnich ynstallearre wurde op apparaten mei Firefox OS."
 
 #: /templates/fxos_only_banner.html:2
 msgid "You may view the catalog but not be able to install or run these apps on your platform."
-msgstr ""
+msgstr "It is mooglik dat jo de katalogus besjen kinne, mar net yn steat binne om dizze te ynstallearjen op jo platfoarm"
 
 #: /templates/langpacks.html:34 /templates/langpacks.html:39
 msgid "No language packs found."
@@ -473,7 +473,7 @@ msgstr "Gjin add-ons foar Firefox OS fûn."
 
 #: /templates/addon/abuse.html:6
 msgid "Let us know if this add-on is doing something that isn't allowed in the <a href=\"{criteria_url}\" target=\"_blank\">review criteria</a> and should be removed from the Marketplace."
-msgstr ""
+msgstr "Lit ús witte oft dizze add-on wat docht dat net tastien is yn <a href=\"{criteria_url}\" target=\"_blank\">beoardielingskritearia</a> en fuortsmiten wurde moat út de Marketplace."
 
 #: /templates/addon/abuse.html:11
 msgid "Examples of issues to report here are if the add-on is completely broken, contains mature content, contains malware, etc. The add-on developer will not see your comments."
@@ -505,7 +505,8 @@ msgstr "Wolle jo wat melde?"
 
 #: /templates/app/abuse.html:7
 msgid "Let us know if this app is doing something that isn't allowed in the <a href=\"{criteria_url}\" target=\"_blank\">review criteria</a> and should be removed from the Marketplace."
-msgstr ""
+msgstr "Lit ús witte oft dizze add-on wat docht dat net tastien is yn <a href=\"{criteria_url}\" target=\"_blank\">beoardielingskritearia</a> en fuortsmiten wurde moat út de Marketplace."
+
 
 #: /templates/app/abuse.html:12
 msgid "Examples of issues to report here are if the app is broken, contains mature content, contains malware, etc. The app developer will not see your comments."
